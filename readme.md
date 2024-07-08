@@ -4,5 +4,5 @@ KernelSU LKM 模式修补过的 init_boot.img 文件。适用于 RMX3850 14.0.1.
 
 使用方式:先根据官方说明解锁 Bootloader , 重启到 fastboot 模式，fastboot flash init_boot RMX3850_kernelsu_patched_20240708_151112.img
 
-或者你也可以自行参照这个 https://kernelsu.com/mi-init-boot 链接的教程自己修补刷入。
+或者你也可以自行参照这个 [https://kernelsu.com/mi-init-boot](https://kernelsu.org/zh_CN/guide/installation.html#lkm-安装) 链接的教程自己修补刷入。
 
